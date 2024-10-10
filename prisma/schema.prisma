@@ -19,7 +19,6 @@ model User {
   email        String
   firstName    String
   lastName     String
-  profileImage String
   customerId   String? @unique
 
   createdAt DateTime @default(now())

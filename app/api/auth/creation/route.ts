@@ -1,4 +1,3 @@
-
 import prisma from "@/lib/db";
 import { getKindeServerSession } from "@kinde-oss/kinde-auth-nextjs/server";
 import { NextResponse } from "next/server";
@@ -24,15 +23,11 @@ export async function GET() {
         firstName: user.given_name ?? "",
         lastName: user.family_name ?? "",
         email: user.email ?? "",
-        profileImage:
-          user.picture ?? `https://avatar.vercel.sh/${user.given_name}`,
       },
     });
   }
 
   return NextResponse.redirect(
-    process.env.NODE_ENV === "production"
-      ? "https://blogedwin.vercel.app/dasboard"
-      : "http://localhost:3000/dashboard"
+     "http://localhost:3000/dashboard"
   );
 }
