@@ -12,9 +12,7 @@ Edwin | [@edwiee](https://github.com/edwiee)
 
 
 #
-<img src="SSCAL.png" alt="DEMO" />
-
-[Live Demo](https://caledwin.vercel.app)
+<img src="BlogEdwin.png" alt="DEMO" />
 
 ## Setup locally
 
