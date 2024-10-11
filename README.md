@@ -8,7 +8,7 @@ Edwin | [@edwiee](https://github.com/edwiee)
 
 #
 ### Tech Stack
-[NextJS](https://nextjs.org) &nbsp; [AuthJS](https://authjs.dev) &nbsp; [Nylas](https://www.nylas.com) &nbsp; [Tailwind CSS](https://tailwindcss.com)
+[NextJS](https://nextjs.org) &nbsp; [Kinde](https://kinde.com) &nbsp; [Prisma](https://www.prisma.io) &nbsp; [Tailwind CSS](https://tailwindcss.com)
 
 
 #
@@ -52,3 +52,4 @@ npm run preview
 ```
 
 ----
+<p align = "center"><samp>Made with ❤️ - <a href = "https://github.com/edwiee">edwiee</a></samp></p>
